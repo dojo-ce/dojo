@@ -5,9 +5,12 @@ php:
   - '5.6'
   - '7.0'
 
+env:
+  - DOJO_DIR=05-05-2016
+  - DOJO_DIR=27-01-2017
+
 before_script:
   - composer selfupdate
-  - cd 05-05-2016 && composer install
 
 script:
-  - vendor/bin/phpunit tests/
+  - cd $DOJO_DIR && composer install && phpunit
