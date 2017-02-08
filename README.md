@@ -13,4 +13,5 @@ Caso queira finalizar um desafio não concluído, basta enviar um PR.
 
 ### PHP
 - [05-05-2016](/05-05-2016/) `FizzBuzz` :white_check_mark:
+- [21-12-2016](/21-12-2016/) `Jokenpo` :recycle:
 - [27-01-2017](/27-01-2017/) `Contando as letras dos números` `1° Encontro DojoCE` :red_circle:

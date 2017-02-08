@@ -7,6 +7,7 @@ php:
 
 env:
   - DOJO_DIR=05-05-2016
+  - DOJO_DIR=21-12-2016
   - DOJO_DIR=27-01-2017
 
 before_script:
