@@ -1,5 +1,7 @@
 # Números Romanos
 
+Desafio realizado no 2° Encontro DojoCE.
+
 Link do desafio: http://dojopuzzles.com/problemas/exibe/numeros-romanos/
 
 ## Linguagem utilizada
