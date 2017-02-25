@@ -1,1 +1,6 @@
+# IDEs
+.phpintel/
+
+# Dependencies
 vendor/
+node_modules/
