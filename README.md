@@ -21,4 +21,5 @@ Abaixo estão listados e separados por linguagem, todos os desafios realizados a
 - [27-01-2017](/27-01-2017/) `Contando as letras dos números` `1° Encontro DojoCE` :red_circle:
 
 ### Node.js
+- [24-05-2016](/24-05-2016/) `Matriz Espiral` :red_circle:
 - [18-02-2017](/18-02-2017/) `Números romanos` `2° Encontro DojoCE` :red_circle:
