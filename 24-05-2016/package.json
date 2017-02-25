@@ -1,0 +1,16 @@
+{
+  "name": "24-05-2016",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "sudo ava",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  }
+}
