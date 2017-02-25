@@ -1,5 +1,4 @@
 #FizzBuzz
-[![Build Status](https://travis-ci.org/dojo-ce/dojo.svg?branch=master)](https://travis-ci.org/dojo-ce/dojo)
 
 Neste problema, você deverá exibir uma lista de 1 a 100, um em cada linha, com as seguintes exceções:
 
