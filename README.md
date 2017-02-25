@@ -1,5 +1,7 @@
-# Desafios resolvidos - DojoCE
-Lista com todos os desafios resolvidos nos encontros do DojoCE. Quer mais informação sobre o DojoCE? Acesse o [site do projeto](http://dojo-ce.github.io/hello-world/) agora mesmo!
+# Desafios DojoCE
+Lista com todos os desafios realizados através do DojoCE.
+
+Quer mais informação sobre o DojoCE? Acesse agora mesmo nosso [site](http://dojo-ce.github.io/hello-world/)!
 
 ## Legenda
 
@@ -9,7 +11,9 @@ Lista com todos os desafios resolvidos nos encontros do DojoCE. Quer mais inform
 
 ## Desafios
 
-Caso queira finalizar um desafio não concluído, basta enviar um PR.
+Abaixo estão listados e separados por linguagem, todos os desafios realizados através do DojoCE.
+
+**Caso você queira finalizar um desafio não concluído, basta realizar uma contribuição.**
 
 ### PHP
 - [05-05-2016](/05-05-2016/) `FizzBuzz` :white_check_mark:
